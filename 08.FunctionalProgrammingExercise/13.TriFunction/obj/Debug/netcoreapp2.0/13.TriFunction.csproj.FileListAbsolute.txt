@@ -1,0 +1,4 @@
+F:\Visual Project\C# Fundamentals\C# Advanced\08.FunctionalProgrammingExercise\13.TriFunction\obj\Debug\netcoreapp2.0\13.TriFunction.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# Advanced\08.FunctionalProgrammingExercise\13.TriFunction\obj\Debug\netcoreapp2.0\13.TriFunction.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# Advanced\08.FunctionalProgrammingExercise\13.TriFunction\obj\Debug\netcoreapp2.0\13.TriFunction.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# Advanced\08.FunctionalProgrammingExercise\13.TriFunction\obj\Debug\netcoreapp2.0\13.TriFunction.AssemblyInfo.cs
